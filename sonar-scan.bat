@@ -1,0 +1,1 @@
+sonar-scanner.bat -D"sonar.projectKey=python-webapp" -D"sonar.sources=." -D"sonar.host.url=http://35.210.21.248:9000" -D"sonar.token=sqp_25a1e77281085139f3100de99e53fee08bba790f"
